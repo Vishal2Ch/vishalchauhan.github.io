@@ -45,9 +45,7 @@ Worked extensively on **Google Cloud Platform (GCP)**, managing and deploying cl
 - Learned and practiced **PowerShell scripting** for automation and system management tasks
 - Gained exposure to **ArgoCD** and **CircleCI** for continuous deployment and CI/CD workflows
 - Developed a clear understanding of **IAM (Identity and Access Management)** concepts and access control
-- Managed and configured **multiple virtual machines using Ansible** for efficient configuration management and automation
-
-This internship strengthened my understanding of cloud-native architectures, infrastructure as code, and DevOps best practices while working on real-world production-like environments.
+- Managed and configured **multiple virtual machines using Ansible** for efficient configuration management and automation.
 ---
 
 ## 🛠️ Skills
@@ -64,7 +62,7 @@ This internship strengthened my understanding of cloud-native architectures, inf
 - Linux Shell & Scripting  
 
 ### **Programming **
-- Java  
+- Java (DSA in JAVA) 
 - Python  
 
 ### **Other Skills**
