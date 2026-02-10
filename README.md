@@ -46,6 +46,8 @@ Worked extensively on **Google Cloud Platform (GCP)**, managing and deploying cl
 - Gained exposure to **ArgoCD** and **CircleCI** for continuous deployment and CI/CD workflows
 - Developed a clear understanding of **IAM (Identity and Access Management)** concepts and access control
 - Managed and configured **multiple virtual machines using Ansible** for efficient configuration management and automation.
+
+  
 ---
 
 ## 🛠️ Skills
